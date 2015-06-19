@@ -13,7 +13,7 @@
     using GTM = Gadgeteer.Modules;
     using Gadgeteer.Modules.GHIElectronics;
 /**
- * @author: Group M-TK3 2015
+ * @author: Dinesh Vaithyalingam Gangatharan
  * 
  **/
 
